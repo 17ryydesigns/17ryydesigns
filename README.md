@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @17ryydesigns
+- 👀 I’m interested in Web Programming, Python, Design, illustrating and photography.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
